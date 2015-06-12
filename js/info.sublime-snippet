@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-.info('${1}', ${1}); // LOG
+info('${1}', ${1}); // LOG
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>info</tabTrigger>
