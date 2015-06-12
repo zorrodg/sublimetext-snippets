@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+  .service('${1:[Service name]}', ${2}Service);
+
+/**
+ * ${2} service
+ */
+${2}Service.\$inject = [${3}];
+
+function ${2}Service(${4}) {
+  console.log('${2} Service :: Init');
+  ${5://[Service object]}
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ngsrv</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

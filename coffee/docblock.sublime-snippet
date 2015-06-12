@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+###*
+ * ${1:[comment description]}
+ * @author ${2: [Your name here]} <${3: [your email here]}>
+ * @package ${4:[app bootstrapper]}
+ * @module ${5:[module name]}
+###
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>#*</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.coffee</scope>
+</snippet>
