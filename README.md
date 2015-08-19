@@ -3,8 +3,8 @@ Personal Sublime Snippets
 
 A collection of my Personal Sublime Text Snippets
 
-**Author:** Andrés Zorro <zorrodg@gmail.com> 
-**Last Edited:** 06/12/2015
+**Author:** Andrés Zorro <zorrodg@gmail.com>  
+**Last Edited:** 08/19/2015
 
 Including:
 
@@ -22,5 +22,10 @@ Including:
 |              | service    | ngsrv       | angular service boilerplate          |
 | CoffeeScript | docblock   | #*          | Generates a CoffeeScript JSDoc Block |
 
+Also including `Preferences.sublime-settings` file and 'Hack' font face.
 
+Remember to symlink your preferences:
 
+```
+  ln -s snippets/Preferences.sublime-settings Preferences.sublime-settings
+```

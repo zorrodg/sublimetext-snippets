@@ -1,0 +1,31 @@
+{
+	"binary_file_patterns":
+	[
+		"dist/*",
+		"node_modules/*",
+		"bower_components/*"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Galea (SL).tmTheme",
+	"create_window_at_startup": false,
+	"draw_white_space": "all",
+	"font_face": "Hack",
+	"font_size": 12,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"remember_full_screen": true,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_whitespace_on_save": true,
+	"word_wrap": true
+}
